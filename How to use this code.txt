@@ -1,0 +1,6 @@
+Usage:
+
+*Clone this repository.
+*Prepare your email dataset (CSV format) or use the provided example dataset.
+*Run the Jupyter Notebook to perform email spam detection on your dataset.
+This codebase provides a practical implementation of email spam detection, which can be adapted and extended for various email classification tasks.
